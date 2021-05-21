@@ -4,10 +4,12 @@
 - 프레임워크 : VueJS(버전2)
 - UI 디자인 : Vuetify
 
-## back
+## Firebase
 - Firebase Functions
-- Firestore
-- Realtime Database
+- Firestore : 게시판에 사용되는 DB
+- Realtime Database : navbar title, footer 등 layout수정용 DB
+- Hosting
+- Authentication : 이메일인증, 구글인증 사용
 
 ## 프로젝트 진행하면서 공부한 내용
 ---
