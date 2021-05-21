@@ -9,4 +9,8 @@
 - Firestore
 - Realtime Database
 
+## 프로젝트 진행하면서 공부한 내용
+---
+[노트](./notes.md)
 
+App.vue : 엔트리 파일
