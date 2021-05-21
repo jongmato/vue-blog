@@ -10,7 +10,6 @@
           </v-list-item-subtitle>
         </v-list-item-content>
       </v-list-item>
-
       <v-divider></v-divider>
     <v-list>
       <v-list-group
@@ -42,34 +41,10 @@
 
 <script>
 export default {
+  props: ['items'],
   data () {
     return {
-      items: [
-        {
-          title: 'Home',
-          icon: 'mdi-home',
-          subItems: [
-            {
-              title: 'Dashboard',
-              to: '/'
-            },
-            {
-              title: 'About',
-              to: '/about'
-            }
-          ]
-        },
-        {
-          title: 'Photos',
-          icon: 'mdi-image',
-          subItems: [
-            {
-              title: 'xxx',
-              to: '/xxx'
-            }
-          ]
-        }
-      ]
+
     }
   }
 }
