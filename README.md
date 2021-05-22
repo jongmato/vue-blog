@@ -3,6 +3,7 @@
 ## front
 - 프레임워크 : VueJS(버전2)
 - UI 디자인 : Vuetify
+- 상태관리 : vuex
 
 ## Firebase
 - Firebase Functions
@@ -15,4 +16,4 @@
 [노트](./notes.md)
 
 ---
-App.vue : 엔트리 파일
+
